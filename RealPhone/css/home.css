@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right, #FFFF00, #00FFFF);
+    margin: 0%;
+    padding: 0;
+}
+
+.logo{
+    flex-basis: 20%;
+
+}
+.logo img{
+  width: 150px;
+}
+
